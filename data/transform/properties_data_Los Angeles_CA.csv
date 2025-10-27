@@ -1,0 +1,51 @@
+id,address,city,state,state_fips,zipCode,county,county_fips,latitude,longitude,property_type,bedrooms,bathrooms,square_footage,year_built
+"1824-W-69th-St,-Los-Angeles,-CA-90047","1824 W 69th St, Los Angeles, CA 90047",Los Angeles,CA,06,90047,Los Angeles,037,33.976738,-118.309878,Single Family,3.0,2.0,1998.0,1932.0
+"1616-N-La-Brea-Ave,-Los-Angeles,-CA-90028","1616 N La Brea Ave, Los Angeles, CA 90028",Los Angeles,CA,06,90028,Los Angeles,037,34.10001,-118.34441,Apartment,0.0,1.0,720.0,2017.0
+"2324-Portland-St,-Los-Angeles,-CA-90007","2324 Portland St, Los Angeles, CA 90007",Los Angeles,CA,06,90007,Los Angeles,037,34.033006,-118.281082,Multi-Family,5.0,4.0,2301.0,1895.0
+"1168-S-Barrington-Ave,-Los-Angeles,-CA-90049","1168 S Barrington Ave, Los Angeles, CA 90049",Los Angeles,CA,06,90049,Los Angeles,037,34.04991,-118.46076,Apartment,2.0,2.0,1124.0,2013.0
+"3325-3329-S-Canfield-Ave,-Los-Angeles,-CA-90034","3325-3329 S Canfield Ave, Los Angeles, CA 90034",Los Angeles,CA,06,90034,Los Angeles,037,34.03056,-118.39522,Apartment,,,,2006.0
+"555-N-Spring-St,-Los-Angeles,-CA-90012","555 N Spring St, Los Angeles, CA 90012",Los Angeles,CA,06,90012,Los Angeles,037,34.05833,-118.24103,Apartment,0.0,1.0,495.0,2018.0
+"160-S-Virgil-Ave,-Los-Angeles,-CA-90004","160 S Virgil Ave, Los Angeles, CA 90004",Los Angeles,CA,06,90004,Los Angeles,037,34.071876,-118.286149,Apartment,0.0,1.0,427.0,1971.0
+"6434-Yucca-St,-Apt-318,-Los-Angeles,-CA-90028","6434 Yucca St, Apt 318, Los Angeles, CA 90028",Los Angeles,CA,06,90028,Los Angeles,037,34.103725,-118.330725,Condo,,1.0,468.0,
+"6550-Yucca-St,-Los-Angeles,-CA-90028","6550 Yucca St, Los Angeles, CA 90028",Los Angeles,CA,06,90028,Los Angeles,037,34.103119,-118.33276,Apartment,2.0,2.0,876.0,1987.0
+"6434-Yucca-St,-Apt-301,-Los-Angeles,-CA-90028","6434 Yucca St, Apt 301, Los Angeles, CA 90028",Los Angeles,CA,06,90028,Los Angeles,037,34.103725,-118.330725,Apartment,1.0,1.0,500.0,
+"1304-W-2nd-St,-Los-Angeles,-CA-90026","1304 W 2nd St, Los Angeles, CA 90026",Los Angeles,CA,06,90026,Los Angeles,037,34.061054,-118.259341,Apartment,0.0,1.0,527.0,2008.0
+"1040-W-91st-St,-Los-Angeles,-CA-90044","1040 W 91st St, Los Angeles, CA 90044",Los Angeles,CA,06,90044,Los Angeles,037,33.95422,-118.293236,Apartment,3.0,1.0,8496.0,1963.0
+"6434-Yucca-St,-Apt-307,-Los-Angeles,-CA-90028","6434 Yucca St, Apt 307, Los Angeles, CA 90028",Los Angeles,CA,06,90028,Los Angeles,037,34.10372,-118.33073,Apartment,1.0,1.0,600.0,
+"4555-W-Martin-Luther-King-Jr-Blvd,-Los-Angeles,-CA-90016","4555 W Martin Luther King Jr Blvd, Los Angeles, CA 90016",Los Angeles,CA,06,90016,Los Angeles,037,34.01888,-118.34702,Apartment,1.0,1.0,825.0,1958.0
+"837-Traction-Ave,-Los-Angeles,-CA-90013","837 Traction Ave, Los Angeles, CA 90013",Los Angeles,CA,06,90013,Los Angeles,037,34.044773,-118.234665,Apartment,0.0,1.0,497.0,1924.0
+"1122-Gayley-Ave,-Los-Angeles,-CA-90024","1122 Gayley Ave, Los Angeles, CA 90024",Los Angeles,CA,06,90024,Los Angeles,037,34.05968,-118.44561,Apartment,,,,
+"4067-4077-W-3rd-St,-Los-Angeles,-CA-90020","4067-4077 W 3rd St, Los Angeles, CA 90020",Los Angeles,CA,06,90020,Los Angeles,037,34.06925,-118.30277,Apartment,0.0,1.0,250.0,1928.0
+"334-S-Main-St,-Los-Angeles,-CA-90013","334 S Main St, Los Angeles, CA 90013",Los Angeles,CA,06,90013,Los Angeles,037,34.04806,-118.24683,Apartment,1.0,1.0,,2010.0
+"1310-S-Barrington-Ave,-Apt-6,-Los-Angeles,-CA-90025","1310 S Barrington Ave, Apt 6, Los Angeles, CA 90025",Los Angeles,CA,06,90025,Los Angeles,037,34.046861,-118.45853,Apartment,2.0,1.5,1100.0,
+"2662-S-Mansfield-Ave,-Los-Angeles,-CA-90016","2662 S Mansfield Ave, Los Angeles, CA 90016",Los Angeles,CA,06,90016,Los Angeles,037,34.03084,-118.35267,Apartment,2.0,1.0,1000.0,1923.0
+"1206-S-Holt-Ave,-Apt-7,-Los-Angeles,-CA-90035","1206 S Holt Ave, Apt 7, Los Angeles, CA 90035",Los Angeles,CA,06,90035,Los Angeles,037,34.055457,-118.378287,Apartment,2.0,2.5,,
+"10599-Wilshire-Blvd,-Los-Angeles,-CA-90024","10599 Wilshire Blvd, Los Angeles, CA 90024",Los Angeles,CA,06,90024,Los Angeles,037,34.062187,-118.433495,Apartment,0.0,1.0,157.0,2008.0
+"550-S-Barrington-Ave,-Los-Angeles,-CA-90049","550 S Barrington Ave, Los Angeles, CA 90049",Los Angeles,CA,06,90049,Los Angeles,037,34.058809,-118.467764,Apartment,0.0,1.0,470.0,1969.0
+"12236-Pacific-Ave,-Apt-6,-Los-Angeles,-CA-90066","12236 Pacific Ave, Apt 6, Los Angeles, CA 90066",Los Angeles,CA,06,90066,Los Angeles,037,34.00326,-118.431445,Apartment,1.0,1.0,725.0,
+"3380-Manning-Ct,-Los-Angeles,-CA-90064","3380 Manning Ct, Los Angeles, CA 90064",Los Angeles,CA,06,90064,Los Angeles,037,34.031298,-118.404855,Single Family,2.0,2.0,1966.0,1948.0
+"3630-Marathon-St,-Los-Angeles,-CA-90026","3630 Marathon St, Los Angeles, CA 90026",Los Angeles,CA,06,90026,Los Angeles,037,34.08344,-118.282499,Apartment,1.0,1.0,750.0,1986.0
+"4601-10th-Ave,-Los-Angeles,-CA-90043","4601 10th Ave, Los Angeles, CA 90043",Los Angeles,CA,06,90043,Los Angeles,037,34.0017,-118.328476,Multi-Family,6.0,3.0,2928.0,1922.0
+"1331-S-Hudson-Ave,-Los-Angeles,-CA-90019","1331 S Hudson Ave, Los Angeles, CA 90019",Los Angeles,CA,06,90019,Los Angeles,037,34.050168,-118.337894,Apartment,2.0,2.0,1000.0,1923.0
+"3949-Los-Feliz-Blvd,-Apt-218,-Los-Angeles,-CA-90027","3949 Los Feliz Blvd, Apt 218, Los Angeles, CA 90027",Los Angeles,CA,06,90027,Los Angeles,037,34.113502,-118.278909,Apartment,4.0,2.0,1400.0,1972.0
+"3416-Manning-Ave,-Los-Angeles,-CA-90064","3416 Manning Ave, Los Angeles, CA 90064",Los Angeles,CA,06,90064,Los Angeles,037,34.030568,-118.403744,Apartment,1.0,1.0,,1978.0
+"417-S-Hill-St,-Los-Angeles,-CA-90013","417 S Hill St, Los Angeles, CA 90013",Los Angeles,CA,06,90013,Los Angeles,037,34.050151,-118.251293,Apartment,1.0,1.0,543.0,2005.0
+"3949-Los-Feliz-Blvd,-Apt-211,-Los-Angeles,-CA-90027","3949 Los Feliz Blvd, Apt 211, Los Angeles, CA 90027",Los Angeles,CA,06,90027,Los Angeles,037,34.113502,-118.278909,Apartment,4.0,2.0,1000.0,
+"7403-La-Tijera-Blvd,-Los-Angeles,-CA-90045","7403 La Tijera Blvd, Los Angeles, CA 90045",Los Angeles,CA,06,90045,Los Angeles,037,33.97064,-118.3799,Apartment,0.0,1.0,501.0,2019.0
+"1228-S-Saltair-Ave,-Los-Angeles,-CA-90025","1228 S Saltair Ave, Los Angeles, CA 90025",Los Angeles,CA,06,90025,Los Angeles,037,34.044711,-118.465124,Apartment,1.0,1.0,800.0,1900.0
+"501-W-Olympic-Blvd,-Los-Angeles,-CA-90015","501 W Olympic Blvd, Los Angeles, CA 90015",Los Angeles,CA,06,90015,Los Angeles,037,34.043555,-118.260904,Apartment,0.0,1.0,520.0,1994.0
+"630-S-Masselin-Ave,-Los-Angeles,-CA-90036","630 S Masselin Ave, Los Angeles, CA 90036",Los Angeles,CA,06,90036,Los Angeles,037,34.063378,-118.351996,Apartment,2.0,2.0,,1990.0
+"4151-Redwood-Ave,-Los-Angeles,-CA-90066","4151 Redwood Ave, Los Angeles, CA 90066",Los Angeles,CA,06,90066,Los Angeles,037,33.98976,-118.4395,Apartment,3.0,3.5,1635.0,2007.0
+"1746-N-Orange-Dr,-Los-Angeles,-CA-90028","1746 N Orange Dr, Los Angeles, CA 90028",Los Angeles,CA,06,90028,Los Angeles,037,34.102932,-118.341293,Apartment,0.0,1.0,650.0,1964.0
+"1902-Park-Ave,-Los-Angeles,-CA-90026","1902 Park Ave, Los Angeles, CA 90026",Los Angeles,CA,06,90026,Los Angeles,037,34.076085,-118.261822,Apartment,1.0,1.0,,2012.0
+"424-Kelton-Ave,-Los-Angeles,-CA-90024","424 Kelton Ave, Los Angeles, CA 90024",Los Angeles,CA,06,90024,Los Angeles,037,34.069847,-118.453125,Apartment,1.0,1.0,640.0,1985.0
+"5550-Wilshire-Blvd,-Los-Angeles,-CA-90036","5550 Wilshire Blvd, Los Angeles, CA 90036",Los Angeles,CA,06,90036,Los Angeles,037,34.061579,-118.350243,Apartment,2.0,2.0,1318.0,2010.0
+"6520-6530-De-Longpre-Ave,-Los-Angeles,-CA-90028","6520-6530 De Longpre Ave, Los Angeles, CA 90028",Los Angeles,CA,06,90028,Los Angeles,037,34.0959,-118.33133,Apartment,1.0,1.0,,1957.0
+"11715-Bellagio-Rd,-Los-Angeles,-CA-90049","11715 Bellagio Rd, Los Angeles, CA 90049",Los Angeles,CA,06,90049,Los Angeles,037,34.078724,-118.469528,Apartment,1.0,1.0,950.0,2014.0
+"1230-S-Olive-St,-Los-Angeles,-CA-90015","1230 S Olive St, Los Angeles, CA 90015",Los Angeles,CA,06,90015,Los Angeles,037,34.03831,-118.26265,Apartment,0.0,1.0,487.0,2017.0
+"10969-Wellworth-Ave,-Los-Angeles,-CA-90024","10969 Wellworth Ave, Los Angeles, CA 90024",Los Angeles,CA,06,90024,Los Angeles,037,34.05663,-118.44517,Apartment,0.0,1.0,500.0,1977.0
+"437-S-Hill-St,-Los-Angeles,-CA-90013","437 S Hill St, Los Angeles, CA 90013",Los Angeles,CA,06,90013,Los Angeles,037,34.04953,-118.25167,Apartment,0.0,1.0,502.0,2019.0
+"6615-6621-W-86th-Pl,-Los-Angeles,-CA-90045","6615-6621 W 86th Pl, Los Angeles, CA 90045",Los Angeles,CA,06,90045,Los Angeles,037,33.95958,-118.40538,Apartment,1.0,1.0,,1975.0
+"3345-Wilshire-Blvd,-Los-Angeles,-CA-90010","3345 Wilshire Blvd, Los Angeles, CA 90010",Los Angeles,CA,06,90010,Los Angeles,037,34.06203,-118.29636,Apartment,0.0,1.0,557.0,2019.0
+"4609-4663-Coliseum-St,-Los-Angeles,-CA-90016","4609-4663 Coliseum St, Los Angeles, CA 90016",Los Angeles,CA,06,90016,Los Angeles,037,34.01784,-118.34811,Apartment,1.0,1.0,583.0,1955.0
+"1851-Ivar-Ave,-Los-Angeles,-CA-90028","1851 Ivar Ave, Los Angeles, CA 90028",Los Angeles,CA,06,90028,Los Angeles,037,34.10498,-118.328552,Apartment,1.0,1.0,,

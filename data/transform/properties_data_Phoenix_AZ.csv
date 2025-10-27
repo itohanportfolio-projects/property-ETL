@@ -1,0 +1,51 @@
+id,address,city,state,state_fips,zipCode,county,county_fips,latitude,longitude,property_type,bedrooms,bathrooms,square_footage,year_built
+"1320-E-Highland-Ave,-Phoenix,-AZ-85014","1320 E Highland Ave, Phoenix, AZ 85014",Phoenix,AZ,04,85014,Maricopa,013,33.50594,-112.05388,Apartment,2.0,1.0,790.0,1968.0
+"35035-N-North-Valley-Pkwy,-Phoenix,-AZ-85086","35035 N North Valley Pkwy, Phoenix, AZ 85086",Phoenix,AZ,04,85086,Maricopa,013,33.80303,-112.13114,Apartment,2.0,2.0,1091.0,2018.0
+"3802-N-28th-St,-Phoenix,-AZ-85016","3802 N 28th St, Phoenix, AZ 85016",Phoenix,AZ,04,85016,Maricopa,013,33.49177,-112.02178,Apartment,2.0,1.5,880.0,1969.0
+"4815-E-Thomas-Rd,-Phoenix,-AZ-85018","4815 E Thomas Rd, Phoenix, AZ 85018",Phoenix,AZ,04,85018,Maricopa,013,33.47952,-111.9774,Apartment,0.0,1.0,312.0,1978.0
+"9330-W-Mcdowell-Rd,-Phoenix,-AZ-85037","9330 W Mcdowell Rd, Phoenix, AZ 85037",Phoenix,AZ,04,85037,Maricopa,013,33.466446,-112.259655,Apartment,,,,2002.0
+"5421-W-Indian-School-Rd,-Phoenix,-AZ-85031","5421 W Indian School Rd, Phoenix, AZ 85031",Phoenix,AZ,04,85031,Maricopa,013,33.493667,-112.176221,Apartment,2.0,2.0,975.0,2001.0
+"5550-E-Deer-Valley-Dr,-Phoenix,-AZ-85054","5550 E Deer Valley Dr, Phoenix, AZ 85054",Phoenix,AZ,04,85054,Maricopa,013,33.677541,-111.961572,Apartment,1.0,1.0,813.0,2019.0
+"4029-W-Mcdowell-Rd,-Phoenix,-AZ-85009","4029 W Mcdowell Rd, Phoenix, AZ 85009",Phoenix,AZ,04,85009,Maricopa,013,33.4656,-112.147008,Apartment,2.0,1.0,,1968.0
+"6525-N-15th-Ave,-Phoenix,-AZ-85015","6525 N 15th Ave, Phoenix, AZ 85015",Phoenix,AZ,04,85015,Maricopa,013,33.53223,-112.09055,Apartment,2.0,2.0,866.0,
+"121-W-Portland-St,-Phoenix,-AZ-85003","121 W Portland St, Phoenix, AZ 85003",Phoenix,AZ,04,85003,Maricopa,013,33.45948,-112.07494,Apartment,0.0,1.0,683.0,1998.0
+"888-N-4th-St,-Phoenix,-AZ-85004","888 N 4th St, Phoenix, AZ 85004",Phoenix,AZ,04,85004,Maricopa,013,33.4571,-112.06901,Apartment,4.0,4.0,312.0,
+"6131-N-27th-Ave,-Phoenix,-AZ-85017","6131 N 27th Ave, Phoenix, AZ 85017",Phoenix,AZ,04,85017,Maricopa,013,33.52718,-112.11547,Apartment,0.0,1.0,438.0,1984.0
+"2242-2302-E-Pinchot-Ave,-Phoenix,-AZ-85016","2242-2302 E Pinchot Ave, Phoenix, AZ 85016",Phoenix,AZ,04,85016,Maricopa,013,33.48236,-112.03252,Apartment,2.0,1.0,,1967.0
+"34000-N-27th-Dr,-Phoenix,-AZ-85085","34000 N 27th Dr, Phoenix, AZ 85085",Phoenix,AZ,04,85085,Maricopa,013,33.792764,-112.120852,Apartment,2.0,2.0,1208.0,
+"3535-W-Tierra-Buena-Ln,-Phoenix,-AZ-85053","3535 W Tierra Buena Ln, Phoenix, AZ 85053",Phoenix,AZ,04,85053,Maricopa,013,33.6277,-112.13703,Apartment,1.0,1.0,470.0,1985.0
+"2216-E-Eugie-Ter,-Apt-205,-Phoenix,-AZ-85022","2216 E Eugie Ter, Apt 205, Phoenix, AZ 85022",Phoenix,AZ,04,85022,Maricopa,013,33.609425,-112.035241,Apartment,1.0,1.0,560.0,
+"27-E-Corona-Ave,-Phoenix,-AZ-85040","27 E Corona Ave, Phoenix, AZ 85040",Phoenix,AZ,04,85040,Maricopa,013,33.40539,-112.07184,Apartment,2.0,1.0,,
+"5102-E-Piedmont-Rd,-Phoenix,-AZ-85044","5102 E Piedmont Rd, Phoenix, AZ 85044",Phoenix,AZ,04,85044,Maricopa,013,33.358391,-111.972488,Townhouse,2.0,2.0,,1997.0
+"909-E-Camelback-Rd,-Phoenix,-AZ-85014","909 E Camelback Rd, Phoenix, AZ 85014",Phoenix,AZ,04,85014,Maricopa,013,33.507651,-112.061855,Apartment,1.0,1.0,781.0,2002.0
+"15202-N-40th-St,-Phoenix,-AZ-85032","15202 N 40th St, Phoenix, AZ 85032",Phoenix,AZ,04,85032,Maricopa,013,33.62497,-111.99666,Apartment,0.0,1.0,528.0,1986.0
+"1450-E-Bell-Rd,-Phoenix,-AZ-85022","1450 E Bell Rd, Phoenix, AZ 85022",Phoenix,AZ,04,85022,Maricopa,013,33.64104,-112.05158,Apartment,1.0,1.0,720.0,1984.0
+"5401-E-Thomas-Rd,-Phoenix,-AZ-85018","5401 E Thomas Rd, Phoenix, AZ 85018",Phoenix,AZ,04,85018,Maricopa,013,33.47984,-111.96469,Apartment,1.0,1.0,548.0,1979.0
+"4323-N-27th-Ave,-Phoenix,-AZ-85017","4323 N 27th Ave, Phoenix, AZ 85017",Phoenix,AZ,04,85017,Maricopa,013,33.499731,-112.115804,Apartment,,1.0,,
+"4949-N-7th-St,-Phoenix,-AZ-85014","4949 N 7th St, Phoenix, AZ 85014",Phoenix,AZ,04,85014,Maricopa,013,33.50807,-112.06433,Apartment,1.0,1.0,686.0,2018.0
+"6611-E-Mayo-Blvd,-Phoenix,-AZ-85054","6611 E Mayo Blvd, Phoenix, AZ 85054",Phoenix,AZ,04,85054,Maricopa,013,33.654755,-111.937584,Apartment,1.0,1.0,718.0,2019.0
+"357-W-Pierson-St,-Phoenix,-AZ-85013","357 W Pierson St, Phoenix, AZ 85013",Phoenix,AZ,04,85013,Maricopa,013,33.507019,-112.079256,Apartment,2.0,1.0,,1958.0
+"2522-W-Highland-Ave,-Phoenix,-AZ-85017","2522 W Highland Ave, Phoenix, AZ 85017",Phoenix,AZ,04,85017,Maricopa,013,33.50615,-112.1141,Apartment,,1.0,,1964.0
+"2540-W-Maryland-Ave,-Phoenix,-AZ-85017","2540 W Maryland Ave, Phoenix, AZ 85017",Phoenix,AZ,04,85017,Maricopa,013,33.53161,-112.1149,Apartment,1.0,1.0,700.0,1985.0
+"4304-E-Campbell-Ave,-Phoenix,-AZ-85018","4304 E Campbell Ave, Phoenix, AZ 85018",Phoenix,AZ,04,85018,Maricopa,013,33.50278,-111.98843,Apartment,2.0,2.0,1042.0,1990.0
+"222-E-Mcdowell-Rd,-Phoenix,-AZ-85004","222 E Mcdowell Rd, Phoenix, AZ 85004",Phoenix,AZ,04,85004,Maricopa,013,33.46625,-112.07136,Apartment,2.0,2.0,940.0,2017.0
+"1517-E-Colter-St,-Phoenix,-AZ-85014","1517 E Colter St, Phoenix, AZ 85014",Phoenix,AZ,04,85014,Maricopa,013,33.51259,-112.04959,Apartment,,,,1959.0
+"840-W-Tonto-St,-Phoenix,-AZ-85007","840 W Tonto St, Phoenix, AZ 85007",Phoenix,AZ,04,85007,Maricopa,013,33.43886,-112.084175,Apartment,1.0,1.0,666.0,1995.0
+"4001-W-Camelback-Rd,-Phoenix,-AZ-85019","4001 W Camelback Rd, Phoenix, AZ 85019",Phoenix,AZ,04,85019,Maricopa,013,33.509022,-112.144829,Apartment,0.0,1.0,,1973.0
+"3613-3644-N-5th-Ave,-Phoenix,-AZ-85013","3613-3644 N 5th Ave, Phoenix, AZ 85013",Phoenix,AZ,04,85013,Maricopa,013,33.48984,-112.08021,Apartment,,,,1959.0
+"5343-E-Taylor-St,-Phoenix,-AZ-85008","5343 E Taylor St, Phoenix, AZ 85008",Phoenix,AZ,04,85008,Maricopa,013,33.452923,-111.96568,Apartment,,,,1989.0
+"3708-W-Northern-Ave,-Phoenix,-AZ-85051","3708 W Northern Ave, Phoenix, AZ 85051",Phoenix,AZ,04,85051,Maricopa,013,33.553594,-112.139283,Apartment,,1.0,,1975.0
+"1505-N-Central-Ave,-Phoenix,-AZ-85004","1505 N Central Ave, Phoenix, AZ 85004",Phoenix,AZ,04,85004,Maricopa,013,33.464245,-112.072906,Apartment,0.0,1.0,530.0,2019.0
+"2928-E-Osborn-Rd,-Phoenix,-AZ-85016","2928 E Osborn Rd, Phoenix, AZ 85016",Phoenix,AZ,04,85016,Maricopa,013,33.487802,-112.01883,Apartment,,,,1971.0
+"5010-E-Cheyenne-Dr,-Phoenix,-AZ-85044","5010 E Cheyenne Dr, Phoenix, AZ 85044",Phoenix,AZ,04,85044,Maricopa,013,33.34592,-111.97743,Single Family,,,,1990.0
+"44-W-Monroe-St,-Phoenix,-AZ-85003","44 W Monroe St, Phoenix, AZ 85003",Phoenix,AZ,04,85003,Maricopa,013,33.45068,-112.07473,Apartment,1.0,1.5,963.0,2008.0
+"6161-W-Mcdowell-Rd,-Phoenix,-AZ-85035","6161 W Mcdowell Rd, Phoenix, AZ 85035",Phoenix,AZ,04,85035,Maricopa,013,33.464997,-112.190858,Apartment,2.0,1.0,838.0,1998.0
+"2015-W-Cactus-Rd,-Phoenix,-AZ-85029","2015 W Cactus Rd, Phoenix, AZ 85029",Phoenix,AZ,04,85029,Maricopa,013,33.59551,-112.10255,Apartment,1.0,1.0,700.0,1984.0
+"3001-N-32nd-St,-Phoenix,-AZ-85018","3001 N 32nd St, Phoenix, AZ 85018",Phoenix,AZ,04,85018,Maricopa,013,33.48284,-112.01249,Apartment,1.0,1.0,745.0,1970.0
+"15425-N-Tatum-Blvd,-Phoenix,-AZ-85032","15425 N Tatum Blvd, Phoenix, AZ 85032",Phoenix,AZ,04,85032,Maricopa,013,33.62664,-111.97612,Apartment,2.0,2.0,1165.0,1985.0
+"3851-N-28th-St,-Phoenix,-AZ-85016","3851 N 28th St, Phoenix, AZ 85016",Phoenix,AZ,04,85016,Maricopa,013,33.493504,-112.020142,Apartment,2.0,2.0,1000.0,1973.0
+"600-N-4th-St,-Phoenix,-AZ-85004","600 N 4th St, Phoenix, AZ 85004",Phoenix,AZ,04,85004,Maricopa,013,33.455036,-112.069174,Apartment,0.0,1.0,672.0,2009.0
+"3633-N-6th-Ave,-Phoenix,-AZ-85013","3633 N 6th Ave, Phoenix, AZ 85013",Phoenix,AZ,04,85013,Maricopa,013,33.49028,-112.08161,Apartment,2.0,2.0,980.0,1960.0
+"3411-N-16th-St,-Phoenix,-AZ-85016","3411 N 16th St, Phoenix, AZ 85016",Phoenix,AZ,04,85016,Maricopa,013,33.488175,-112.045382,Apartment,,,,1999.0
+"9652-N-31st-Ave,-Phoenix,-AZ-85051","9652 N 31st Ave, Phoenix, AZ 85051",Phoenix,AZ,04,85051,Maricopa,013,33.573837,-112.126943,Apartment,2.0,1.0,835.0,1978.0
+"7725-W-Mcdowell-Rd,-Phoenix,-AZ-85035","7725 W Mcdowell Rd, Phoenix, AZ 85035",Phoenix,AZ,04,85035,Maricopa,013,33.46522,-112.22706,Apartment,0.0,1.0,483.0,2009.0

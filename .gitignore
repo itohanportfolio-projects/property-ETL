@@ -1,0 +1,6 @@
+.env
+/src/_pycache_
+load.ipynb
+extract.ipynb
+transform.ipynb
+/my_env/
