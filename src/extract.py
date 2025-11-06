@@ -1,6 +1,9 @@
 import requests
 import json
-from src.config import BASE_URL, API_KEY
+from config import BASE_URL, API_KEY
+import time
+import random
+from concurrent.futures import ThreadPoolExecutor
 
 
 #define a dictionary for city and state
@@ -29,7 +32,7 @@ def extract_properties(city,state):
             if response.status_code == 200:
                 data = response.json()    
                     #return data 
-                file_name = f"data/raw/properties_data_{city}_{state}.json"
+                file_name = f"data/raw/properties_data_new_{city}_{state}.json"
                 with open(file_name, "w" ) as f:
                     json.dump(data, f , indent=4)
                     return file_name
@@ -39,5 +42,8 @@ def extract_properties(city,state):
                     return None    
             
 #loop through locations and extract data for each       
-for loc in locations:
-    data = extract_properties(loc["city"],loc["state"])
+# for loc in locations:
+#     data = extract_properties(loc["city"],loc["state"])
+with ThreadPoolExecutor(max_workers=len(locations)) as executor:
+       futures =executor.map(extract_properties,locations)
+

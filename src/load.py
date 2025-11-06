@@ -5,11 +5,22 @@ import  os
 from sqlalchemy import create_engine
 import pandas as pd
 from pathlib import Path
+import time
+import random
+from concurrent.futures import ThreadPoolExecutor
 
            
 
 load_dotenv()
 #read load files from transofm folder into db
+
+file_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data", "transform")
+   
+files= [
+        os.path.join(file_path, f)
+        for f in os.listdir(file_path)
+        if os.path.isfile(os.path.join(file_path,f))
+    ]
 
 def load_file(file_path):
       
@@ -35,16 +46,13 @@ def load_file(file_path):
         #     print("Connected successfully!")
 
                 
-file_path =  Path(r"C:\DataEngineering\data\transform")       
-files= [
-        os.path.join(file_path, f)
-        for f in os.listdir(file_path)
-        if os.path.isfile(os.path.join(file_path,f))
-    ]
 
-for file in files:
-   if not file.endswith(".csv"):
-        print(f"{file} extension is not valid") 
-        continue
-   else:
-        load_data=load_file(file)
+
+# for file in files:
+#    if not file.endswith(".csv"):
+#         print(f"{file} extension is not valid") 
+#         continue
+#    else:
+#         load_data=load_file(file)
+with ThreadPoolExecutor(max_workers=len(files)) as executor:
+       futures =executor.map(load_file,files)

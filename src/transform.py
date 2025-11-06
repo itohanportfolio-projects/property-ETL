@@ -3,13 +3,25 @@ import pandas as pd
 #import shutil
 import os
 from pathlib import Path
-
-
+import time
+import random
+from concurrent.futures import ThreadPoolExecutor
 
 
 #get files in folder and store in a list
-file_path = r"C:\DataEngineering\data\raw"
-trans_path = r"C:\DataEngineering\data\transform"
+file_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data", "raw")
+trans_path = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data", "transform")
+
+os.makedirs(file_path, exist_ok=True)
+os.makedirs(trans_path, exist_ok=True)
+
+files= [
+        os.path.join(file_path, f)
+        for f in os.listdir(file_path)
+        if os.path.isfile(os.path.join(file_path,f))
+    ]
+
+
 
 def transform(file_path):
         
@@ -56,15 +68,14 @@ def transform(file_path):
         trans_path_name =  os.path.join(trans_path, f"properties_data_{property_location}.csv")
         df.to_csv(trans_path_name,index=False)
 
-files= [
-        os.path.join(file_path, f)
-        for f in os.listdir(file_path)
-        if os.path.isfile(os.path.join(file_path,f))
-    ]
 
-for file in files:
-   if not file.endswith(".json"):
-        print(f"{file} extension is not valid") 
-        continue
-   else:
-        trans_data=transform(file)
+
+# for file in files:
+#    if not file.endswith(".json"):
+#         print(f"{file} extension is not valid") 
+#         continue
+#    else:
+#         trans_data=transform(file)
+
+with ThreadPoolExecutor(max_workers=len(files)) as executor:
+       futures =executor.map(transform,files)
